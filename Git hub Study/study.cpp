@@ -13,6 +13,8 @@ int main()
 	cout << "money!!!" << endl;
 
 	cout << "11111" << endl;
+
+	int a;
 	system("pause");
 	return 0;
 
