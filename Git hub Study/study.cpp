@@ -8,7 +8,7 @@ int main()
 
 	cout << "Hello World!" << endl;
 
-
+	cout << "ÎÒÒªÇ®£¡£¡£¡" << endl;
 	system("pause");
 	return 0;
 
