@@ -15,6 +15,8 @@ int main()
 	cout << "11111" << endl;
 
 	int a;
+	int b;
+
 	system("pause");
 	return 0;
 
