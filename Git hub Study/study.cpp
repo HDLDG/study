@@ -9,6 +9,8 @@ int main()
 	cout << "Hello World!" << endl;
 
 	cout << "ÎÒÒªÇ®£¡£¡£¡" << endl;
+
+	cout << "money!!!" << endl;
 	system("pause");
 	return 0;
 
